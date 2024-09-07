@@ -1,4 +1,5 @@
 <resources>
-    <string name="app_name">Exercise Four - Count!</string>
+    <string name="app_name">exercise_four</string>
     <string name="tap_me">Tap Me!</string>
+    <string name="number_count">0</string>
 </resources>

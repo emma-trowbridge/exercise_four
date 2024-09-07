@@ -3,5 +3,6 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="hotpink">#FF69B4</color>
+    <color name="neonpink">#FF6EC7</color>
     <color name="lightpink">#FFB6C1</color>
 </resources>
